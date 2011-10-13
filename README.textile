@@ -1,10 +1,10 @@
 h1. Detroit Ruby Sample App
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Generated this template rails app with https://github.com/RailsApps/rails3-application-templates
 
 h2. More Information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+http://railsapps.github.com/
 
 h2. Required Gems
 
