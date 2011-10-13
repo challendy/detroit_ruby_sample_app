@@ -6,6 +6,9 @@ h2. More Information
 
 http://railsapps.github.com/
 
+To generate Haml devise views
+@find . -name '*erb' | xargs ruby -e 'ARGV.each { |i| puts "html2haml -r #{i} #{i.sub(/erb$/,"haml")};rm #{i}"}' | bash@
+
 h2. Required Gems
 
 This application requires this gem:
